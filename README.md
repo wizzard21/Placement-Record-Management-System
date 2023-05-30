@@ -33,7 +33,7 @@
     </li>
 </ul>
 
-
-
-<b>- For more info, You can refer to the aforementioned REPORT.</b>
-"# Placement-Record-Management-System" 
+![login](https://github.com/wizzard21/Placement-Record-Management-System/blob/master/images/login.png)
+![login](https://github.com/wizzard21/Placement-Record-Management-System/blob/master/images/home.png)
+![login](https://github.com/wizzard21/Placement-Record-Management-System/blob/master/images/showcompanies.png)
+![login](https://github.com/wizzard21/Placement-Record-Management-System/blob/master/images/addstudent.png)
