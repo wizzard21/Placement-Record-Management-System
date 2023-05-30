@@ -1,4 +1,4 @@
-﻿# placement-record
+# Placement Record Management System
 
 <h3>Aim:</h3>
 <ul>
